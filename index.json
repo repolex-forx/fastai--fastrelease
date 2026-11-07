@@ -1,0 +1,11 @@
+{
+  "org": "fastai",
+  "repo": "fastrelease",
+  "versions": [
+    {
+      "commit": "21425882c172bc1b9094b4ce4636a75ac8897def",
+      "tag": "",
+      "parsed_at": "2026-11-07T01:27:34.321519+00:00"
+    }
+  ]
+}
