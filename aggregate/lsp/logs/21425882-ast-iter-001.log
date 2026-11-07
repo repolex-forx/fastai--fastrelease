@@ -1,0 +1,7 @@
+[2026-11-07T01:25:56Z] === AST ITERATION 1 START | repo=fastai/fastrelease sha=21425882 ===
+[2026-11-07T01:25:56Z] [iter=1] PHASE START: ast repo=fastai/fastrelease sha=21425882
+[2026-11-07T01:25:56Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T01:25:59Z] [iter=1] AST chunks built count=1 triples=36085
+[2026-11-07T01:25:59Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/21425882c172bc1b9094b4ce4636a75ac8897def/.complete
+[2026-11-07T01:25:59Z] [iter=1] PHASE END: ast elapsed_s=3 elapsed_min=0.0
+[2026-11-07T01:25:59Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
